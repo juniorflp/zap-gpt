@@ -1,0 +1,51 @@
+2023/02/04-18:39:42.027 2684 Reusing MANIFEST C:\Users\junio\OneDrive\Área de Trabalho\zap-gpt\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/04-18:39:42.027 2684 Recovering log #329
+2023/02/04-18:39:42.082 2684 Reusing old log C:\Users\junio\OneDrive\Área de Trabalho\zap-gpt\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000329.log 
+2023/02/04-18:41:54.439 2d44 Compacting 1@1 + 2@2 files
+2023/02/04-18:41:54.576 2d44 Generated table #345@1: 61737 keys, 1403261 bytes
+2023/02/04-18:41:54.576 2d44 Compacted 1@1 + 2@2 files => 1403261 bytes
+2023/02/04-18:41:54.577 2d44 compacted to: files[ 0 0 12 0 0 0 0 ]
+2023/02/04-18:41:54.577 2d44 Delete type=2 #327
+2023/02/04-18:41:54.577 2d44 Delete type=2 #328
+2023/02/04-18:41:54.578 2d44 Delete type=2 #332
+2023/02/04-18:43:29.514 3ef4 Level-0 table #347: started
+2023/02/04-18:43:29.556 3ef4 Level-0 table #347: 1357205 bytes OK
+2023/02/04-18:43:29.558 3ef4 Delete type=0 #329
+2023/02/04-18:43:29.921 3ef4 Compacting 1@0 + 0@1 files
+2023/02/04-18:43:29.970 3ef4 Generated table #348@0: 21124 keys, 610843 bytes
+2023/02/04-18:43:29.972 3ef4 Generated table #349@0: 395 keys, 8680 bytes
+2023/02/04-18:43:29.972 3ef4 Compacted 1@0 + 0@1 files => 619523 bytes
+2023/02/04-18:43:29.972 3ef4 compacted to: files[ 0 2 12 0 0 0 0 ]
+2023/02/04-18:43:29.973 3ef4 Delete type=2 #347
+2023/02/04-18:45:01.275 3ef4 Compacting 1@1 + 10@2 files
+2023/02/04-18:45:01.422 3ef4 Generated table #350@1: 29121 keys, 2237412 bytes
+2023/02/04-18:45:01.459 3ef4 Generated table #351@1: 1821 keys, 2144315 bytes
+2023/02/04-18:45:01.493 3ef4 Generated table #352@1: 1854 keys, 2143103 bytes
+2023/02/04-18:45:01.529 3ef4 Generated table #353@1: 1946 keys, 2148767 bytes
+2023/02/04-18:45:01.574 3ef4 Generated table #354@1: 3011 keys, 2152525 bytes
+2023/02/04-18:45:01.630 3ef4 Generated table #355@1: 8338 keys, 2158951 bytes
+2023/02/04-18:45:01.765 3ef4 Generated table #356@1: 28970 keys, 2270097 bytes
+2023/02/04-18:45:01.916 3ef4 Generated table #357@1: 25766 keys, 2251502 bytes
+2023/02/04-18:45:01.998 3ef4 Generated table #358@1: 34281 keys, 2164487 bytes
+2023/02/04-18:45:02.191 3ef4 Generated table #359@1: 99640 keys, 2249971 bytes
+2023/02/04-18:45:02.216 3ef4 Generated table #360@1: 14721 keys, 329818 bytes
+2023/02/04-18:45:02.216 3ef4 Compacted 1@1 + 10@2 files => 22250948 bytes
+2023/02/04-18:45:02.216 3ef4 compacted to: files[ 0 1 13 0 0 0 0 ]
+2023/02/04-18:45:02.217 3ef4 Delete type=2 #333
+2023/02/04-18:45:02.217 3ef4 Delete type=2 #334
+2023/02/04-18:45:02.217 3ef4 Delete type=2 #335
+2023/02/04-18:45:02.217 3ef4 Delete type=2 #336
+2023/02/04-18:45:02.217 3ef4 Delete type=2 #337
+2023/02/04-18:45:02.217 3ef4 Delete type=2 #338
+2023/02/04-18:45:02.217 3ef4 Delete type=2 #339
+2023/02/04-18:45:02.217 3ef4 Delete type=2 #340
+2023/02/04-18:45:02.217 3ef4 Delete type=2 #341
+2023/02/04-18:45:02.217 3ef4 Delete type=2 #342
+2023/02/04-18:45:02.217 3ef4 Delete type=2 #348
+2023/02/04-18:47:39.612 2a00 Compacting 1@1 + 2@2 files
+2023/02/04-18:47:39.903 2a00 Generated table #361@1: 80970 keys, 1841422 bytes
+2023/02/04-18:47:39.903 2a00 Compacted 1@1 + 2@2 files => 1841422 bytes
+2023/02/04-18:47:39.903 2a00 compacted to: files[ 0 0 12 0 0 0 0 ]
+2023/02/04-18:47:39.904 2a00 Delete type=2 #343
+2023/02/04-18:47:39.904 2a00 Delete type=2 #345
+2023/02/04-18:47:39.904 2a00 Delete type=2 #349
